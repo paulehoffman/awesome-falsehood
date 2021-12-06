@@ -223,7 +223,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome\! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
+Your contributions are always welcome\! (This is not a falsehood.) Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
 
 ## Footnotes
 
